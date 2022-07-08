@@ -1,15 +1,10 @@
-# Misaka-blog x-ui 魔改优化版
+# Misaka-blog x-ui 魔改优化版 备份
 
-支持多协议多用户的 xray 面板
-
-博客说明：https://owo.misaka.rest/misakablog-xui/
-
-x-ui教程：https://owo.misaka.rest/x-ui/
 
 ## 安装命令
 
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/x-ui/main/install.sh && bash install.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/facerleo/x-ui/main/install.sh && bash install.sh
 ```
 
 快捷方式：`x-ui`
